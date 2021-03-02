@@ -11,9 +11,9 @@
         {
           "name": "GM Ingenieria",
           "architecture": "samd",
-          "version": "0.0.12",
+          "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/osaelectronics/arduino-board-index/gm_ingenieria.zip",
+          "url": "https://github.com/osaelectronics/arduino-board-index/blob/master/gm_ingenieria.zip?raw=true",
           "archiveFileName": "gm_ingenieria.zip",
           "checksum": "SHA-256:E552F0E3A61676D60B78FAB6AA7A5A962718A89B15497A49B6D9545379009DC7",
           "size": "1597440",
