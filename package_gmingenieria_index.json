@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "GM Ingenieria",
+      "maintainer": "OSA Electronics",
+      "websiteURL": "https://www.osaelectronics.com",
+      "email" : "oriol.sanchez@osaelectronics.com",
+      "platforms":
+      [
+        {
+          "name": "GM Ingenieria",
+          "architecture": "samd",
+          "version": "0.0.12",
+          "category": "Contributed",
+          "url": "https://github.com/osaelectronics/arduino-board-index/gm_ingenieria.zip",
+          "archiveFileName": "gm_ingenieria.zip",
+          "checksum": "SHA-256:E552F0E3A61676D60B78FAB6AA7A5A962718A89B15497A49B6D9545379009DC7",
+          "size": "1597440",
+          "boards": [
+            {
+              "name": "RGB2134KS"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
